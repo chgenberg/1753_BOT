@@ -1,0 +1,30 @@
+Title: Inflammerad hud och dess koppling till cytokiner
+
+Inflammerad hud och dess koppling till cytokiner
+22 augusti 2023
+·
+Christopher Genberg
+22 augusti 2023
+·
+Christopher Genberg
+Antalet fall av inflammerade hudtillstånd ökar drastiskt varje år. Idag så har över 85% av alla unga (mellan 12–24 år) akne, 36% av alla västerlänningar känslig hud och 10% eksem. Tyvärr så ökar dessa siffror, år efter år.
+Men vad beror egentligen detta på? Vad är det egentligen som händer när man får en inflammation i kroppen?
+Först och främst så måste vi prata om någonting som heter cytokiner.
+Enkelt förklarat så är cytokiner olika typer av proteiner som skickar signaler till cellerna att agera mot patogener (onda bakterier, virus, svampar etcetera). I normala fall stannar dessa signaler upp när patogenen inte längre utgör ett hot för kroppen, men i vissa fall händer det motsatta. Det som sker är att immunförsvarets reaktion på viruset övergår i en överdriven respons. Immunförsvaret fortsätter skicka ut cytokiner som i försök att skydda kroppen i stället skadar den.
+När detta sker så kallas cytokinerna för ”Proinflammatoriska cytokiner”. Dessa utsöndras oftast vid bland annat skada, stress eller inflammation (Proinflammatorisk är motsatsen till anti-inflammatorisk). Delar av immunsystemet aktiveras samtidigt som cytokinerna skickar signaler till hjärnan. När den här processen drar i gång kan man känna sig trött, hängig och febrig – ungefär som vid en långvarig förkylning
+Men. Hur fungerar detta mer specifikt för huden? Huden är som dem flesta känner till kroppens största organ och har flera väsentliga funktioner för vår mänskliga överlevnad. Två av de viktigaste funktionerna är att skydda oss från vår skadliga omvärld och samtidigt bibehålla vatten/vätska i huden/kroppen.
+För att upprätta detta skydd (hudbarriär) så behövs en celltyp som heter för keratinocyter.
+Keratinocyter bildar hudbarriären genom att genomgå en mycket komplex differentieringsprocess som innebär att deras strukturella uppbyggnad förändras i grunden. Denna process kallas för förhorning (eller ”cornification” på engelska”). När det sker en förändring i denna förhorningsprocess så påverkar detta uppbyggnationen av hudbarriären. Huden blir svagare och är mindre motståndskraftig mot främmande ämnen och patogener (onda bakterier, virus, svampar, protista etc.). Detta leder ofta till inflammatoriska hudtillstånd. Studier har även visat på att det finns en direkt koppling mellan vanliga hudsjukdomar (exempelvis perioral dermatit och psoriasis) och en skadad hudbarriär.
+Det är även fastställt att cytokinsammansättningen hos en ”sjuk/obalanserad hud” är olik den hos en frisk hud. Anledningen till detta är att många av de cytokiner som återfinns i en obalanserad hud har en negativ påverkan på hudbarriärens förhorningsprocess.
+Vi vet därför att det finns både ”onda och goda cytokiner”. När cytokinerna fungerar som dem ska så skyddar dem vår kropp och hud mot inflammationer, medan vissa cytokiner kan fortsätta att angripa kroppen även efter att inflammationen har dämpats. Vi vet även att cytokinerna spelar en viktig roll i neuroinflammation och neurodegeneration.
+Hur kommer då Cannabis, Cannabinoider och Endocannabinoidsystemet in i denna bild?
+Som vi har beskrivit i tidigare inlägg så består endocannabinoidsystemet av tre olika delar. Receptorer (CB1 och CB2), Endocannabinoider (Anandamide och 2AG) samt enzymer som bryter ner endocannabinoiderna när de inte längre behövs.
+När endocannabinoider eller phytocannabinoider (växtbaserade cannabinoider) aktiverar hudens CB1 och CB2 receptorer så dämpas inflammationer i huden. Detta genom att de b.la. hämmar produktionen av pro-inflammatoriska cytokiner.
+Slutsatsen blir därför följande. Om vi på riktigt vill minska antalet fall av inflammerade hudtillstånd så måste vi minska uppkomsten av proinflammatoriska cytokiner. Hudens endocannabinoidsystem har en direkt påverkan på hudens immunsystem genom att hämma just uppkomsten av dessa elakartade cytokiner. Hudvårdsindustrin borde därför till stor del fokusera på lösningar om hur man balanserar hudens endocannabinoidsystem för att uppnå en optimal och frisk hudhälsa.
+https://sv.wikipedia.org/wiki/Cytokiner
+https://en.wikipedia.org/wiki/Inflammatory_cytokine
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3645662/
+https://pubmed.ncbi.nlm.nih.gov/10998193/
+https://pubmed.ncbi.nlm.nih.gov/12960289/
+https://pubmed.ncbi.nlm.nih.gov/20153076/
+https://onlinelibrary.wiley.com/doi/10.1111/apha.12474

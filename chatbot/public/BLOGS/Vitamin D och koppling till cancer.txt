@@ -1,0 +1,37 @@
+Title: Vitamin D och koppling till cancer
+
+Vitamin D och koppling till cancer
+15 april 2025
+·
+Christopher Genberg
+15 april 2025
+·
+Christopher Genberg
+D-vitamin är ett fettlösligt vitamin som även fungerar som ett hormon i kroppen. Det bildas naturligt i huden vid exponering för solens UV-B-strålning och kan också tillföras via kosten eller kosttillskott. Intresset för D-vitaminets roll i cancer har delvis sitt ursprung i befolkningsstudier som visat att personer i soligare områden har en lägre förekomst av vissa cancerformer jämfört med de som bor i solfattiga områden.
+Vitamin D-brist har länge varit kopplat till benskörhet och andra hälsoproblem. På senare tid har forskning även börjat undersöka om kroniskt låga nivåer kan bidra till utvecklingen av flera sjukdomar, däribland cancer. I kroppen omvandlas D-vitamin till kalcitriol, som reglerar genuttryck i flera organ via vitamin D-receptorer. Trots denna biologiska koppling återstår frågan om klinisk evidens stödjer ett samband mellan D-vitamin och cancer.
+Evidens för samband mellan D-vitaminbrist och cancer
+Många epidemiologiska studier har observerat att personer med lägre nivåer av D-vitamin oftare drabbas av olika typer av cancer, främst kolorektalcancer, men även bröst-, prostata- och lungcancer. Starkast är sambandet för kolorektalcancer där höga nivåer av D-vitamin i blodet korrelerar med lägre risk att drabbas.
+Flera stora sammanställningar och meta-analyser pekar också på en skyddande effekt av god D-vitaminstatus mot total cancerdödlighet och specifika cancerformer. Däremot har kliniska interventionsstudier, där deltagare fått tillskott av D-vitamin, ofta gett negativa eller otydliga resultat. Exempelvis kunde stora studier som VITAL inte visa någon skillnad i cancerförekomst med tillskott av D-vitamin.
+Trots detta visar en del analyser att tillskott kan minska cancerdödligheten något, särskilt över längre tid, även om incidensen av nya cancerfall inte minskar. Dessa resultat är inte helt entydiga och diskussionen kring orsakssamband fortsätter.
+Canceröverlevnad och prognos
+Vissa studier tyder på att D-vitamin kan förbättra prognosen för patienter med cancer, även om det inte nödvändigtvis förhindrar att cancer uppstår från början. En möjlig förklaring är att D-vitamin gör tumörer mindre aggressiva eller mer mottagliga för behandling. Effekten på cancerdödlighet har observerats främst efter längre tids tillskott. Samtidigt pågår forskning om särskilda grupper med D-vitaminbrist kan dra större nytta av tillskott än de med normala nivåer från början.
+Kontroverser och motstridiga fynd
+Sambandet mellan D-vitamin och cancer är komplext och kontroversiellt. Laboratorie- och epidemiologiska studier stödjer tydligt en anti-cancereffekt av D-vitamin, men kliniska interventionsstudier har inte alltid kunnat bekräfta detta. Kolorektalcancer har den starkaste vetenskapliga kopplingen, medan andra cancerformer har svagare eller mer inkonsekvent evidens.
+En svårighet är att avgöra om låga D-vitaminnivåer orsakar cancer eller om de bara är en markör för andra hälsorelaterade faktorer, såsom kost, motion och livsstil. Dessutom är det viktigt att notera riskerna med överdrivet höga D-vitamindoser, som kan leda till skadliga effekter.
+Biologiska mekanismer
+Biologiskt finns flera plausibla mekanismer för hur D-vitamin kan påverka cancerutvecklingen. Kalcitriol, den aktiva formen av D-vitamin, reglerar genuttryck genom vitamin D-receptorer som finns i många organ och vävnader. Laboratoriestudier har visat att D-vitamin kan hämma cancercellers tillväxt, stimulera apoptos (programmerad celldöd), motverka blodkärlsnybildning i tumörer och minska cancercellers förmåga att metastasera. Dessutom kan D-vitamin påverka immunsystemet genom att förstärka immunförsvarets attack på tumörer och minska kronisk inflammation.
+D-vitamin och malignt melanom
+Malignt melanom skiljer sig eftersom UV-strålning, som behövs för D-vitaminproduktionen, samtidigt är en viktig riskfaktor för hudcancer. Sambandet mellan D-vitaminstatus och risken att insjukna i melanom är oklart och resultaten är blandade. Däremot finns tydligare evidens för att god D-vitaminstatus kan förbättra prognosen och minska risken för spridning vid redan diagnosticerat melanom. Samtidigt rekommenderas balanserad solexponering eller kosttillskott för att undvika både brist och överexponering.
+Det finns betydande evidens för ett samband mellan D-vitaminbrist och ökad cancerrisk, särskilt för kolorektalcancer. För andra cancersorter är evidensen mer komplex och ibland motstridig. Det är ännu inte klart om sambandet är direkt kausalt eller en följd av andra faktorer. Kliniska interventionsstudier har hittills inte definitivt kunnat visa att tillskott förebygger cancer, även om viss förbättring av prognosen för cancerpatienter setts.
+Forskningen fortsätter och rekommendationen idag är att undvika D-vitaminbrist men inte heller överdosera. D-vitamin bör betraktas som en potentiell, men inte säkerställd, faktor i cancerprevention. Viktigast för att förebygga cancer är fortfarande en hälsosam livsstil med måttlig solexponering, god kosthållning, regelbunden motion och undvikande av tobak.
+Källor:
+- cancer.gov
+- vetenskaphalsa.se
+- lakartidningen.se
+- iarc.who.int
+- pubmed.ncbi.nlm.nih.gov
+- ar.iiarjournals.org
+- nature.com
+- pmc.ncbi.nlm.nih.gov
+- vardfokus.se
+- news.cancerresearchuk.org
