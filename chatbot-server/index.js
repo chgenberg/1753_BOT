@@ -9,7 +9,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const openai = new OpenAI({ apiKey: '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' });
+// Use environment variable for OpenAI API key
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 const blogsDir = path.join(__dirname, '../chatbot/public/BLOGS');
 const productsDir = path.join(__dirname, '../chatbot/public/PRODUCTS');
